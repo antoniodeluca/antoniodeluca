@@ -16,11 +16,15 @@ Software is my passion and a lot of my time is spent around it.
 \
 &nbsp;
 
----
-
 ### Principal Skills
 
----
-
-**JavaScript**, **TypeScript**, **CSS**, **HTML**, **Node.js**, **AWS**, **TDD** (Test Driven Development), **FP** (Functional
-Programming), **OOP** (Object Oriented Programming), **RP** (Reactive Programming)
+- **JavaScript**
+- **TypeScript**
+- **CSS**
+- **HTML**
+- **Node.js**
+- **AWS**
+- **TDD** (Test Driven Development)
+- **FP** (Functional Programming)
+- **OOP** (Object Oriented Programming)
+- **RP** (Reactive Programming)
