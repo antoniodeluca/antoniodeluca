@@ -1,4 +1,4 @@
-## Antonio De Luca - Software Architect, Developer and Enthusiast👋
+## Antonio De Luca - Software Architect, Developer and Enthusiast
 
 ### Summary
 
