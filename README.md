@@ -1,8 +1,5 @@
-# Antonio De Luca
+# Antonio De Luca - Software Architect, Developer and Enthusiast
 
-## Software Architect, Developer and Enthusiast
-
-\
 An highly skilled **Full Stack** expert.
 
 Fanatic of Minimalist Software Development, Accurate Database Design and Meticulous Business Analysis. Specialized in but not limited to Web Applications.
