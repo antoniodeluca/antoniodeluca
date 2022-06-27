@@ -1,4 +1,4 @@
-# Antonio De Luca - Software Architect, Developer and Enthusiast
+# Software Architect, Developer and Enthusiast
 
 An highly skilled **Full Stack** expert.
 
