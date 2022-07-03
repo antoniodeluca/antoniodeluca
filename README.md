@@ -11,15 +11,17 @@ After that, during ~23 years, I've worked in various contexts developing applica
 
 Software is my passion and a lot of my time is spent around it
 
-### Principal Skills
+### Skills
 
-- **JavaScript**
-- **TypeScript**
-- **CSS**
-- **HTML**
-- **Node.js**
 - **AWS**
-- **TDD** (Test Driven Development)
+- **CSS**
 - **FP** (Functional Programming)
+- **HTML**
+- **JavaScript**
+- **Node.js**
 - **OOP** (Object Oriented Programming)
 - **RP** (Reactive Programming)
+- **TDD** (Test Driven Development)
+- **TypeScript**
+
+For additional information please download my <a href="https://github.com/antoniodeluca/antoniodeluca/blob/main/antonio-de-luca.pdf">Curriculum Vitae</a>
