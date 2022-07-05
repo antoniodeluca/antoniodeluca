@@ -11,7 +11,7 @@ After that, during ~23 years, I've worked in various contexts developing applica
 
 Software is my passion and a lot of my time is spent around it
 
-### Skills
+### Principal Skills
 
 - **AWS**
 - **CSS**
