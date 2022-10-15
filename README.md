@@ -12,9 +12,9 @@ Software is my passion and a lot of my time is spent around it
 
 - **JavaScript**
 - **TypeScript**
-- **Node.js**
 - **CSS**
 - **HTML**
+- **Node.js**
 - **AWS**
 - **TDD** (Test Driven Development)
 - **OOP** (Object Oriented Programming)
