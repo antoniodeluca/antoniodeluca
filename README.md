@@ -24,6 +24,6 @@ Software is my passion and a lot of my time is spent around it
 - **TDD** (Test Driven Development)
 - **TypeScript**
 
-Linkedin: https://www.linkedin.com/in/antonio-deluca
+For additional information: <a href="https://github.com/antoniodeluca/antoniodeluca/blob/main/antonio-de-luca.pdf">Curriculum Vitae</a>
 
-For additional information please download my <a href="https://github.com/antoniodeluca/antoniodeluca/blob/main/antonio-de-luca.pdf">Curriculum Vitae</a>
+Linkedin: <a href="https://www.linkedin.com/in/antonio-deluca"></a>
