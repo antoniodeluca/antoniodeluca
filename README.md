@@ -21,6 +21,4 @@ Software is my passion and a lot of my time is spent around it
 - **FP** (Functional Programming)
 - **RP** (Reactive Programming)
 
-For additional information: <a href="https://github.com/antoniodeluca/antoniodeluca/blob/main/antonio-de-luca.pdf">Curriculum Vitae</a>
-
-Linkedin: <a href="https://www.linkedin.com/in/antonio-deluca"></a>
+For additional information: <a href="https://github.com/antoniodeluca/antoniodeluca/blob/main/antonio-de-luca.pdf">Curriculum Vitae</a> and <a href="https://www.linkedin.com/in/antonio-deluca">LinkedIn</a>
