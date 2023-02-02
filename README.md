@@ -2,9 +2,9 @@
 
 An highly skilled **Full Stack** expert.
 
-Fanatic of Minimalist Software Development, Accurate Database Design and Meticulous Business Analysis.
-Specialized in but not limited to Web Applications.
-Strongly experienced in Object Oriented Programming.
+Fanatic of Minimalist Software Development, Accurate Database Design and Meticulous Business Analysis.  
+Specialized in but not limited to Web Applications.  
+Strongly experienced in Object Oriented Programming.  
 Focused on Functional/Reactive paradigms and Event Driven/Service Oriented architectures.
 
 I've studied electronics, written my first code on a VIC 20 and, during 1999, finally understood that software would have been my future.
