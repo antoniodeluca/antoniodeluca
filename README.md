@@ -34,4 +34,4 @@ Additional information: <a href="https://github.com/antoniodeluca/antoniodeluca/
 
 ## Privacy Note ##
 
-*If you arrived to this page through the domain antoniodeluca.info then Cloudflare (<a href="https://cloudflare.com">cloudflare.com</a>) has been involved in the request. You can find their privacy statement on their website while the GitHub privacy statement is available here on GitHub.*
+*If you arrived to this page through the domain **antoniodeluca.info** then Cloudflare (<a href="https://cloudflare.com">cloudflare.com</a>), where Name Servers are, has been involved in the request. You can find their privacy statement on their website while the GitHub privacy statement is available here on GitHub.*
