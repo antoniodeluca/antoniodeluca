@@ -1,4 +1,4 @@
-# Software Architect, Developer and Enthusiast
+# Software Architect, Developer and Enthusiast #
 
 An highly skilled **Full Stack** expert.
 
@@ -17,7 +17,7 @@ I'm a polyglot programmer but there are things that I know better than others.
 
 Apart this I’ve the hobby of playing with artificial intelligence, machine learning and neural networks.
 
-### Principal Skills
+## Principal Skills ##
 
 - **JavaScript**
 - **TypeScript**
@@ -31,3 +31,4 @@ Apart this I’ve the hobby of playing with artificial intelligence, machine lea
 - **RP** (Reactive Programming)
 
 Additional information: <a href="https://github.com/antoniodeluca/antoniodeluca/blob/main/antonio-de-luca.pdf">Curriculum Vitae</a> and <a href="https://www.linkedin.com/in/antonio-deluca">LinkedIn</a>
+
