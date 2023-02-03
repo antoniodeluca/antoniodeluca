@@ -32,4 +32,4 @@ Apart this I’ve the hobby of playing with artificial intelligence, machine lea
 
 Additional information: <a href="https://github.com/antoniodeluca/antoniodeluca/blob/main/antonio-de-luca.pdf">Curriculum Vitae</a> and <a href="https://www.linkedin.com/in/antonio-deluca">LinkedIn</a>
 
-Privacy note: if you arrived to this page through the domain antoniodeluca.info then Cloudflare (cloudflare.com) and OVH (ovh.com) services have been involved in the process. You can find their privacy statements on their websites while the GitHub privacy statement is available here on the GitHub website.
+***Privacy note:*** *if you arrived to this page through the domain antoniodeluca.info then Cloudflare (cloudflare.com) and OVH (ovh.com) services have been involved in the process. You can find their privacy statements on their websites while the GitHub privacy statement is available here on the GitHub website.*
