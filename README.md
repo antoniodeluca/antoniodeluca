@@ -17,7 +17,7 @@ I'm a polyglot programmer but there are things that I know better than others.
 
 Apart this I’ve the hobby of playing with artificial intelligence, machine learning and neural networks.
 
-### Principal Skills
+## Principal Skills ##
 
 - **JavaScript**
 - **TypeScript**
@@ -32,4 +32,6 @@ Apart this I’ve the hobby of playing with artificial intelligence, machine lea
 
 Additional information: <a href="https://github.com/antoniodeluca/antoniodeluca/blob/main/antonio-de-luca.pdf">Curriculum Vitae</a> and <a href="https://www.linkedin.com/in/antonio-deluca">LinkedIn</a>
 
-***Privacy note:*** *if you arrived to this page through the domain antoniodeluca.info then Cloudflare (<a href="https://cloudflare.com">cloudflare.com</a>) has been involved in the request. You can find their privacy statement on their website while the GitHub privacy statement is available here on GitHub.*
+## Privacy Note ##
+
+*If you arrived to this page through the domain antoniodeluca.info then Cloudflare (<a href="https://cloudflare.com">cloudflare.com</a>) has been involved in the request. You can find their privacy statement on their website while the GitHub privacy statement is available here on GitHub.*
