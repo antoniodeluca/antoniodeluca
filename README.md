@@ -32,7 +32,7 @@ Apart this I’ve the hobby of playing with artificial intelligence, machine lea
 
 Additional information: <a href="https://github.com/antoniodeluca/antoniodeluca/blob/main/antonio-de-luca.pdf">Curriculum Vitae</a> and <a href="https://www.linkedin.com/in/antonio-deluca">LinkedIn</a>
 
-### Personal Projects ###
+## Personal Projects ##
 
 - <a href="https://github.com/antoniodeluca/dn2a">DN2A</a>
 - <a href="https://github.com/antoniodeluca/a-javascript-robot">A JavaScript Robot</a>
