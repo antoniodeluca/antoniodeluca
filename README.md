@@ -49,5 +49,4 @@ Additional information: <a href="https://github.com/antoniodeluca/antoniodeluca/
 - <a href="https://github.com/antoniodeluca/dn2a">DN2A</a>
 - <a href="https://github.com/antoniodeluca/a-javascript-robot">A JavaScript Robot</a>
 - <a href="https://github.com/antoniodeluca/a-javascript-arranger">A JavaScript Arranger</a>
-- <a href="https://github.com/antoniodeluca/katas">Katas</a>
 - <a href="https://github.com/antoniodeluca/calculators">Calculators</a>
