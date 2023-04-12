@@ -21,23 +21,23 @@ Apart this I’ve the hobby of playing with artificial intelligence, machine lea
 
 *In Brief:*
 
-JavaScript, TypeScript, React, Node.js, AWS, DDD (Domain Driven Design), TDD (Test Driven Development), OOP (Object Oriented Programming), FP (Functional Programming), RP (Reactive Programming)
+AWS, JavaScript, Node.js, React, TypeScript
 
-*Detailed:*
+*In Detail:*
 
 - *Client languages =>* JavaScript, TypeScript
-- *Main client library =>* React
+- *Main client libraries =>* AWS SDK, React
 - *Presentation languages =>* CSS, HTML
 - *Server languages =>* JavaScript, TypeScript
-- *Main server library =>* AWS SDK
+- *Main server libraries =>* AWS SDK, Express
 - *Query languages =>* GraphQL, SQL
 - *Run-time environments =>* AWS services, Node.js
 - *Database engines =>* AWS services, MySQL
-- *Lifecycle practices =>* A/B Testing, Contract Testing, Data Transactions, Design Patterns, DDD, Feature Flags, Iterative Refactoring, Migrations, Observability, Rapid Prototyping, TDD
+- *Lifecycle practices =>* A/B Testing, Design Patterns, DDD (Domain Driven Design), Feature Flags, Observability, Rapid Prototyping, TDD (Test Driven Development)
 - *Programming paradigms =>* Functional, Object Oriented, Reactive
 - *Architecture models =>* Event Driven, Microfrontends, Microservices, Service Oriented
 - *Modelling notations =>* BPMN, C4, ERD, UML
-- *Agile methodologies =>* Event Storming, Kanban, Mob Programming, Pair Programming, Scrum, Story Mapping
+- *Agile methodologies =>* Event Storming, Kanban, Pair Programming, Scrum, Story Mapping
 - *DevOps tools =>* AWS services, Docker, Serverless, Terraform
 - *CI/CD tools =>* AWS services, GitHub Actions
 - *SCM tools =>* Git
@@ -46,7 +46,7 @@ Additional information: <a href="https://github.com/antoniodeluca/antoniodeluca/
 
 ## Personal Projects ##
 
-- <a href="https://github.com/antoniodeluca/dn2a">DN2A</a>
-- <a href="https://github.com/antoniodeluca/a-javascript-robot">A JavaScript Robot</a>
-- <a href="https://github.com/antoniodeluca/a-javascript-arranger">A JavaScript Arranger</a>
-- <a href="https://github.com/antoniodeluca/calculators">Calculators</a>
+- <a href="https://github.com/antoniodeluca/dn2a">Dynamic Neural Networks Architecture (DN2A)</a>
+- <a href="https://github.com/antoniodeluca/neural-calculators">Neural Calculators</a>
+- <a href="https://github.com/antoniodeluca/neural-midi-studio">Neural MIDI Studio</a>
+- <a href="https://github.com/antoniodeluca/neural-robotics-studio">Neural Robotics Studio</a>
