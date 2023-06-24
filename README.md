@@ -47,6 +47,4 @@ Additional information: <a href="https://github.com/antoniodeluca/antoniodeluca/
 ## Personal Projects ##
 
 - <a href="https://github.com/antoniodeluca/dn2a">Dynamic Neural Networks Architect (DN2A)</a>
-- <a href="https://github.com/antoniodeluca/neural-calculator-prototypes">Neural Calculator Prototypes</a>
-- <a href="https://github.com/antoniodeluca/neural-midi-studio">Neural MIDI Studio</a>
-- <a href="https://github.com/antoniodeluca/neural-robotics-studio">Neural Robotics Studio</a>
+- <a href="https://github.com/antoniodeluca/calculator-prototypes">Calculator Prototypes</a>
