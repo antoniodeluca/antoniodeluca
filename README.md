@@ -46,5 +46,5 @@ Additional information: <a href="https://github.com/antoniodeluca/antoniodeluca/
 
 ## Personal Projects ##
 
-- <a href="https://github.com/antoniodeluca/dn2a">Dynamic Neural Networks Architect (DN2A)</a>
+- <a href="https://github.com/antoniodeluca/dn2a">Dynamic Neural Networks Architect</a>
 - <a href="https://github.com/antoniodeluca/calculator-prototypes">Calculator Prototypes</a>
