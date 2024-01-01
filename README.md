@@ -33,7 +33,7 @@ AWS, JavaScript, Node.js, React, TypeScript
 - *Query languages =>* GraphQL, SQL
 - *Run-time environments =>* AWS services, Node.js
 - *Database engines =>* AWS services, MySQL
-- *Best practices =>* Design Patterns, Domain Driven Design (DDD), Feature Flags, Rapid Prototyping, Test Driven Development (TDD)
+- *Best practices =>* Design Patterns, DDD, Feature Flags, Rapid Prototyping, TDD
 - *Programming paradigms =>* Functional, Object Oriented, Reactive
 - *Architecture models =>* Event Driven, Microfrontends, Microservices, Service Oriented
 - *Modelling notations =>* BPMN, C4, ERD, UML
