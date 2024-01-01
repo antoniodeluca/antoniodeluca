@@ -9,7 +9,7 @@ Focused on Functional/Reactive paradigms and Event Driven/Service Oriented archi
 
 I've studied electronics, written my first code on a VIC 20 and, during 1999, finally understood that software would have been my future.
 
-After that, during ~25 years, I've worked in various contexts developing applications for many purposes using JavaScript and other languages.
+After that, during ~25 years, I've worked in various contexts developing applications for many purposes using JavaScript and other programming languages.
 
 Software is my passion and a lot of my time is dedicated to it.
 
