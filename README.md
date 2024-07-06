@@ -9,19 +9,19 @@ Focused on Functional/Reactive paradigms and Event Driven/Service Oriented archi
 
 I've studied electronics, written my first code on a VIC 20 and, during 1999, finally understood that software would have been my future.
 
-After that, during ~25 years, I've worked in various contexts developing applications for many purposes using JavaScript and other programming languages.
+After that, during ~25 years, I've worked in various contexts developing applications for many purposes using JavaScript (now always through TypeScript) and other programming languages.
 
 Software is my passion and a lot of my time is dedicated to it.
 
 I'm a polyglot programmer but there are things that I know better than others.
 
-Apart this I’ve the hobby of playing with artificial intelligence, machine learning and neural networks.
+Apart this I’ve the hobby of playing with neural networks, machine learning and artificial intelligence.
 
 ## Principal Skills ##
 
 *In Brief*
 
-AWS, JavaScript, Node.js, React, TypeScript
+AWS, MySQL, Node.js, React, TypeScript
 
 *In Detail*
 
@@ -29,11 +29,11 @@ AWS, JavaScript, Node.js, React, TypeScript
 - *Main client libraries =>* AWS SDK, React
 - *Presentation languages =>* CSS, HTML
 - *Server languages =>* JavaScript, TypeScript
-- *Main server libraries =>* AWS SDK, Express
+- *Main server libraries =>* AWS SDK
 - *Query languages =>* GraphQL, SQL
 - *Run-time environments =>* AWS services, Node.js
 - *Database engines =>* AWS services, MySQL
-- *Best practices =>* Design Patterns, DDD, Feature Flags, Rapid Prototyping, TDD
+- *Best practices =>* DDD, Design Patterns, Feature Flags, Rapid Prototyping, TDD
 - *Programming paradigms =>* Functional, Object Oriented, Reactive
 - *Architecture models =>* Event Driven, Microfrontends, Microservices, Service Oriented
 - *Modelling notations =>* BPMN, C4, ERD, UML
