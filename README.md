@@ -21,7 +21,7 @@ Apart this I’ve the hobby of playing with neural networks, machine learning an
 
 *In Brief*
 
-AWS, MySQL, Node.js, React, TypeScript
+AWS, Node.js, React, TypeScript
 
 *In Detail*
 
