@@ -21,7 +21,7 @@ Apart this I’ve the hobby of playing with neural networks, machine learning an
 
 *In Brief*
 
-AWS, Node.js, React, TypeScript
+AWS, Express, Node.js, React, TypeScript
 
 *In Detail*
 
@@ -29,7 +29,7 @@ AWS, Node.js, React, TypeScript
 - *Main client libraries =>* AWS SDK, React
 - *Presentation languages =>* CSS, HTML
 - *Server languages =>* JavaScript, TypeScript
-- *Main server libraries =>* AWS SDK
+- *Main server libraries =>* AWS SDK, Express
 - *Query languages =>* GraphQL, SQL
 - *Run-time environments =>* AWS services, Node.js
 - *Database engines =>* AWS services, MySQL
