@@ -1,6 +1,6 @@
 # Software Architect, Developer and Enthusiast #
 
-An highly skilled Full Stack expert
+An highly skilled Full Stack expert.
 
 Fanatic of Meticulous Business Analysis, Accurate System Design and Minimalist Software Development.
 
