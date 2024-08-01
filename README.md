@@ -1,29 +1,24 @@
 # Software Architect, Developer and Enthusiast #
 
-*An highly skilled Full Stack expert*
+**An highly skilled Full Stack expert**
 
-Fanatic of Minimalist Software Development, Accurate Persistence Design and Meticulous Business Analysis.  
-Specialized in but not limited to Web Applications.  
-Strongly experienced in Object Oriented Programming.  
+Fanatic of Meticulous Business Analysis, Accurate System Design and Minimalist Software Development.
+
+Specialized in but not limited to Web Applications.
+
+Strongly experienced in Object Oriented Programming.
+
 Focused on Functional/Reactive paradigms and Event Driven/Service Oriented architectures.
 
 I've studied electronics, written my first code on a VIC 20 and, during 1999, finally understood that software would have been my future.
 
-After that, during ~25 years, I've worked in various contexts developing applications for many purposes using JavaScript (now always through TypeScript) and other programming languages.
+After that, during ~25 years, I've worked in various contexts contributing to the design and development of many systems as well as to the support and mentorship of many engineers.
 
 Software is my passion and a lot of my time is dedicated to it.
 
 I'm a polyglot programmer but there are things that I know better than others.
 
-Apart this I’ve the hobby of playing with neural networks, machine learning and artificial intelligence.
-
 ## Principal Skills ##
-
-*In Brief*
-
-AWS, Express, Node.js, React, TypeScript
-
-*In Detail*
 
 - *Client languages =>* JavaScript, TypeScript
 - *Main client libraries =>* AWS SDK, React
@@ -42,7 +37,7 @@ AWS, Express, Node.js, React, TypeScript
 - *CI/CD tools =>* AWS services, GitHub Actions
 - *SCM tools =>* Git
 
-Additional information: <a href="https://github.com/antoniodeluca/antoniodeluca/blob/main/antonio-de-luca.pdf">Curriculum Vitae</a> and <a href="https://www.linkedin.com/in/antonio-deluca">LinkedIn</a>
+Additional information on <a href="https://github.com/antoniodeluca/antoniodeluca/blob/main/antonio-de-luca.pdf">Curriculum Vitae</a> and <a href="https://www.linkedin.com/in/antonio-deluca">LinkedIn</a>
 
 ## Personal Projects ##
 
