@@ -2,7 +2,7 @@
 
 An highly skilled Full Stack expert.
 
-Fanatic of Meticulous Business Analysis, Accurate System Design and Minimalist Software Development.
+Fanatic of Meticulous Business Analysis, Accurate Solution Design and Minimalist Software Development.
 
 Specialized in but not limited to Web Applications.
 
@@ -17,6 +17,10 @@ After that, during ~25 years, I've worked in various contexts contributing to th
 Software is my passion and a lot of my time is dedicated to it.
 
 I'm a polyglot programmer but there are things that I know better than others.
+
+- *LinkedIn* => https://www.linkedin.com/in/antonio-deluca
+- *Curriculum Vitae* => https://github.com/antoniodeluca/antoniodeluca/blob/main/antonio-de-luca.pdf
+- *Email* => contact@antoniodeluca.info
 
 ## Principal Skills ##
 
@@ -36,8 +40,6 @@ I'm a polyglot programmer but there are things that I know better than others.
 - *DevOps tools =>* AWS services, Docker, Serverless, Terraform
 - *CI/CD tools =>* AWS services, GitHub Actions
 - *SCM tools =>* Git
-
-Additional information on <a href="https://github.com/antoniodeluca/antoniodeluca/blob/main/antonio-de-luca.pdf">Curriculum Vitae</a> and <a href="https://www.linkedin.com/in/antonio-deluca">LinkedIn</a>
 
 ## Personal Projects ##
 
