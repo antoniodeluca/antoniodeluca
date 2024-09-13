@@ -14,13 +14,10 @@ I've studied electronics, written my first code on a VIC 20 and, during 1999, fi
 
 After that, during ~25 years, I've worked in various contexts contributing to the design and development of many systems as well as to the support and mentorship of many engineers.
 
-Software is my passion and a lot of my time is dedicated to it.
+- *Curriculum Vitae* => https://github.com/antoniodeluca/antoniodeluca/blob/main/antonio-de-luca.pdf
+- *LinkedIn* => https://www.linkedin.com/in/antonio-deluca
 
 I'm a polyglot programmer but there are things that I know better than others.
-
-- *LinkedIn* => https://www.linkedin.com/in/antonio-deluca
-- *Curriculum Vitae* => https://github.com/antoniodeluca/antoniodeluca/blob/main/antonio-de-luca.pdf
-- *Email* => contact@antoniodeluca.info
 
 ## Principal Skills ##
 
@@ -32,11 +29,11 @@ I'm a polyglot programmer but there are things that I know better than others.
 - *Query languages =>* GraphQL, SQL
 - *Run-time environments =>* AWS services, Node.js
 - *Database engines =>* AWS services, MySQL
-- *Best practices =>* DDD, Design Patterns, Evolutionary Design, Feature Flags, Rapid Prototyping, RFCs, TDD
+- *Best practices =>* DDD, Design Patterns, Evolutionary Design, Feature Flags, TDD
 - *Programming paradigms =>* Functional, Object Oriented, Reactive
 - *Architecture models =>* Event Driven, Microfrontends, Microservices, Service Oriented
 - *Modelling notations =>* BPMN, C4, ERD, UML
-- *Agile methodologies =>* Event Storming, Kanban, Pair Programming, Scrum, Story Mapping
+- *Agile methodologies =>* Event Storming, Kanban, Pair Programming, Request for Comments, Scrum, Story Mapping
 - *DevOps tools =>* AWS services, Docker, Serverless, Terraform
 - *CI/CD tools =>* AWS services, GitHub Actions
 - *SCM tools =>* Git
