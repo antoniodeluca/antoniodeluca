@@ -6,7 +6,7 @@ Brilliant in meticulous business analysis, accurate solution design, adequate qu
 
 I’m an advocate for driving implementation through automated testing techniques.
 
-Specialized in but not limited to Web Applications.
+Specialized in but not limited to web applications.
 
 Focused on Event Driven/Service Oriented architectures and Serverless/IaC.
 
