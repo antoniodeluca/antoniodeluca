@@ -12,7 +12,7 @@ Strongly experienced in Object Oriented Programming and very knowledgeable in Fu
 
 I've studied electronics, written my first code on a VIC 20 and, during 1999, thanks to the interest in experimenting with neural networks, finally recognized software as my passion and understood that it would have been my future.
 
-After that, during ~25 years, I've worked in various contexts contributing to the design and development of many systems as well as to the support and mentorship of many engineers.
+After that, during ~25 years, I've worked in various contexts contributing to the design and implementation of many systems as well as to the support and mentorship of many engineers.
 
 I'm a polyglot programmer, having used during the years various languages and their ecosystems, but there are things that I know better than others and nowadays I leverage AI to support myself, fill gaps and remove barriers in deliverying value. 
 
