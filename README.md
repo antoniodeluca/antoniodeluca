@@ -2,9 +2,7 @@
 
 An highly skilled Full Stack expert.
 
-Brilliant in meticulous business analysis, accurate solution design, adequate quality assurance and minimalist software development.
-
-I’m an advocate for driving implementation through automated testing techniques.
+I’m an advocate for driving development through automated testing techniques.
 
 Specialized in but not limited to web applications.
 
@@ -23,21 +21,22 @@ I'm a polyglot programmer, having used during the years various languages and th
 - *Agile methodologies =>* Event Storming, Kanban, Pair Programming, Request for Comments, Scrum, Story Mapping
 - *Best practices =>* DDD, Design Patterns, Evolutionary Design, Feature Flags, TDD
 - *Architecture models =>* Event Driven, Microfrontends, Microservices, Service Oriented
-- *Programming paradigms =>* Functional, Object Oriented, Reactive
-- *AI methodologies =>* AIAD (AI Assisted Development), AIDD (AI Driven Development), SudoLang Prompting
 - *Modelling notations =>* BPMN, C4, ERD, UML
-- *Main client languages =>* JavaScript, TypeScript
-- *Main client libraries =>* AWS SDK, React
-- *Main presentation languages =>* CSS, HTML
-- *Main server languages =>* JavaScript, TypeScript
-- *Main server libraries =>* AWS SDK, Express
-- *Main query languages =>* GraphQL, SQL
-- *Run-time environments =>* AWS services, Node.js
+- *Programming paradigms =>* Functional, Object Oriented, Reactive
+- *AI approaches =>* AIAD (AI Assisted Development), AIDD (AI Driven Development)
+
+- *Runtime environments =>* AWS services, Node.js
 - *Database engines =>* AWS services, MySQL
 - *DevOps tools =>* AWS services, Docker, Serverless, Terraform
-- *CI/CD tools =>* AWS services, GitHub Actions
-- *Observability tools =>* AWS services
-- *SCM tools =>* Git
+- *CI/CD systems =>* AWS services, GitHub Actions
+- *Observability solutions =>* AWS services, Sentry
+
+- *Main client languages =>* JavaScript, TypeScript
+- *Main client libraries =>* React, React Native
+- *Main presentation languages =>* CSS, HTML
+- *Main server languages =>* JavaScript, TypeScript
+- *Main server libraries =>* NestJS, Next.js
+- *Main query languages =>* GraphQL, SQL
 
 ## Personal Projects ##
 
