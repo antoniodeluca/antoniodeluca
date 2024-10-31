@@ -1,4 +1,4 @@
-# Software Architect, Developer and Enthusiast #
+# Software Architect, Developer and Enthusiast
 
 An highly skilled Full Stack expert.
 
@@ -16,7 +16,7 @@ After that, during ~25 years, I've worked in various contexts contributing to th
 
 I'm a polyglot programmer, having used during the years various languages and their ecosystems, but there are things that I know better than others and nowadays I leverage AI to support myself, fill gaps and remove barriers in deliverying value. 
 
-## Principal Skills ##
+## Principal Skills
 
 - *Agile methodologies =>* Event Storming, Kanban, Pair Programming, Request for Comments, Scrum, Story Mapping
 - *Best practices =>* DDD, Design Patterns, Evolutionary Design, Feature Flags, TDD
@@ -25,11 +25,15 @@ I'm a polyglot programmer, having used during the years various languages and th
 - *Programming paradigms =>* Functional, Object Oriented, Reactive
 - *AI approaches =>* AIAD (AI Assisted Development), AIDD (AI Driven Development)
 
+###
+
 - *Runtime environments =>* AWS services, Node.js
 - *Database engines =>* AWS services, MySQL
 - *DevOps tools =>* AWS services, Docker, Serverless, Terraform
 - *CI/CD systems =>* AWS services, GitHub Actions
 - *Observability solutions =>* AWS services, Sentry
+
+###
 
 - *Main client languages =>* JavaScript, TypeScript
 - *Main client libraries =>* React, React Native
@@ -38,6 +42,6 @@ I'm a polyglot programmer, having used during the years various languages and th
 - *Main server libraries =>* NestJS, Next.js
 - *Main query languages =>* GraphQL, SQL
 
-## Personal Projects ##
+## Personal Projects
 
 - <a href="https://github.com/antoniodeluca/dn2a">Dynamic Neural Networks Architect</a>
