@@ -19,10 +19,10 @@ I'm a polyglot programmer, having used over the years various languages and thei
 ###
 
 - *Main programming language =>* TypeScript
-- *Main libraries =>* NestJS, Next.js, React
+- *Main stack =>* Node.js, React
 - *Main cloud provider =>* AWS
 
-Used to various DevOps tools, CI/CD systems, o11y solutions, database engines, code runtimes, coding assistants as well as to additional languages and libraries.
+Used to various DevOps tools, CI/CD systems, o11y solutions, database engines, code runtimes, coding assistants as well as to many libraries and additional languages.
 
 Fast learner, pragmatic problem solver and business savvy.
 
