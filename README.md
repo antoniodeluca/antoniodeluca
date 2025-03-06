@@ -13,7 +13,7 @@ I'm a polyglot programmer, having used over the years various languages and thei
 ## Skills
 
 - *Agile methodologies =>* Event Storming, Kanban, Pair Programming, Scrum, Story Mapping
-- *Best practices =>* DDD, Design Patterns, Evolutionary Architectures, Feature Flags, TDD
+- *Best practices =>* DDD, Evolutionary Architectures, TDD
 - *Modelling notations =>* BPMN, C4, ERD, UML
 
 ###
