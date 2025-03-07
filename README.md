@@ -6,13 +6,13 @@ Focused on Event Driven/Service Oriented architectures and Serverless/IaC approa
 
 I've studied electronics, written my first code on a VIC 20 and, during 1999, thanks to a lot of experimentation with neural networks, finally recognized software as my passion and understood that it would have been my future.
 
-After that, during more than 25 years, I've worked in various contexts contributing to the design and implementation of many systems as well as to the support and mentorship of many engineers.
+After that, during more than 25 years, I've worked in various contexts contributing to the design and implementation of many systems as well as to the support and mentorship of many engineers through pair programming, individual contribution and more.
 
 I'm a polyglot programmer, having used over the years various languages and their related ecosystems, but there are things I am better at as well as more up to date than others and these days I use AI to help remove barriers, fill gaps and maximize speed in value delivery.
 
 ## Skills
 
-- *Agile methodologies =>* Event Storming, Kanban, Pair Programming, Scrum, Story Mapping
+- *Agile methodologies =>* Event Storming, Kanban, Scrum, Story Mapping
 - *Best practices =>* DDD, Evolutionary Architectures, TDD
 - *Modelling notations =>* BPMN, C4, ERD, UML
 
