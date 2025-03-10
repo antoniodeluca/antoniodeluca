@@ -8,11 +8,12 @@ I've studied electronics, written my first code on a VIC 20 and, during 1999, th
 
 After that, during more than 25 years, I've worked in various contexts contributing to the design and implementation of many systems as well as to the support and mentorship of many engineers through pair programming, individual contribution and more.
 
-I'm a polyglot programmer, having used over the years various languages and their related ecosystems, but there are things I am better at as well as more up to date than others and these days I use AI to help remove barriers, fill gaps and maximize speed in value delivery.
+I'm a polyglot programmer, having used over the years various languages and related ecosystems, but there are things I am better at as well as more up to date than others, like for example all what is about JavaScript, and these days I also use AI to help remove barriers, fill gaps and maximize speed in value delivery.
 
 ## Skills
 
-- *Agile methodologies =>* Event Storming, Kanban, Scrum, Story Mapping
+Fast learner, pragmatic problem solver and business savvy.
+
 - *Best practices =>* DDD, Evolutionary Architectures, TDD
 - *Modelling notations =>* BPMN, C4, ERD, UML
 
@@ -22,9 +23,7 @@ I'm a polyglot programmer, having used over the years various languages and thei
 - *Main stack =>* Node.js, React
 - *Main cloud provider =>* AWS
 
-Used to various DevOps tools, CI/CD systems, o11y solutions, database engines, code runtimes, coding assistants as well as to many libraries and additional languages.
-
-Fast learner, pragmatic problem solver and business savvy.
+Used to various DevOps tools, CI/CD systems, o11y solutions, database engines, runtime environments, coding assistants as well as to many libraries and additional languages.
 
 ## Personal Projects
 
