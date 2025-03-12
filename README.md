@@ -15,7 +15,7 @@ I'm a polyglot programmer, having used over the years various languages and rela
 Fast learner, pragmatic problem solver and business savvy.
 
 - *Best practices =>* DDD, Evolutionary Architectures, TDD
-- *Modelling notations =>* BPMN, C4, ERD, UML
+- *Modelling notations =>* C4, ERD, UML
 
 ###
 
