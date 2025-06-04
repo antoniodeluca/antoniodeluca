@@ -23,5 +23,5 @@ Business savvy and pragmatic.
 
 Used to various DevOps tools, CI/CD systems, o11y solutions, database engines, runtime environments, coding assistants as well as to many other libraries and additional programming languages (like PHP, Python and others). 
 
-- <a href="https://github.com/antoniodeluca/antoniodeluca/blob/main/antonio-de-luca.pdf">Curriculum Vitae</a>
+<a href="https://github.com/antoniodeluca/antoniodeluca/blob/main/antonio-de-luca.pdf">Curriculum Vitae</a>
 
