@@ -16,9 +16,10 @@ I'm a polyglot programmer, having used over the years various languages and rela
 - *Main programming language =>* TypeScript (or JavaScript directly)
 - *Main stack =>* Node.js (solo or with NestJS), React (solo or with Next.js)
 - *Main cloud provider =>* AWS (mostly around its serverless services)
-- *Software development approaches =>* AIAD (AI Assisted Development), AIDD (AI Driven Development), TDD (with ATDD and BDD)
+- *Software development approaches =>* AIAD (AI Assisted Development), AIDD (AI Driven Development), ATDD (plus BDD/TDD)
 
 A team player and a clear, organized and thoughtful communicator.
+
 Business savvy and pragmatic.
 
 Used to various DevOps tools, CI/CD systems, o11y solutions, database engines, runtime environments, coding assistants as well as to many other libraries and additional programming languages (like PHP, Python and others). 
