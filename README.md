@@ -1,4 +1,4 @@
-# Software Architect, Developer and Enthusiast
+# Software Designer and Developer
 
 I’m a full stack software designer and developer, specialized in but not limited to web applications, and an advocate for driving implementation and ensuring systems quality through automated testing methodologies.
 
