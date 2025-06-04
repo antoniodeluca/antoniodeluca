@@ -18,7 +18,7 @@ I'm a polyglot programmer, having used over the years various languages and rela
 - *Main cloud provider =>* AWS (mostly around its serverless services)
 - *Software development approaches =>* AIAD (AI Assisted Development), AIDD (AI Driven Development), ATDD (plus BDD/TDD)
 
-A team player and a clear, organized and thoughtful communicator.
+A team player and a clear, organized and thoughtful communicator.<br>
 Business savvy and pragmatic.
 
 Used to various DevOps tools, CI/CD systems, o11y solutions, database engines, runtime environments, coding assistants as well as to many other libraries and additional programming languages (like PHP, Python and others). 
