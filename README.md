@@ -8,14 +8,14 @@ I've studied electronics, written my first code on a VIC 20 and, during 1999, af
 
 After that, during 25+ years, I've worked in various contexts and roles contributing to the design and development of many systems as well as to the support and mentorship of many engineers through pair programming, individual contribution and more.
 
-I'm a polyglot programmer, having used various languages and related ecosystems over the years, but there are some things I am more up to date with than others and these days I leverage artificial intelligence to accelerate delivery, remove barriers and fill gaps.
+I'm a polyglot programmer, having used various languages and related ecosystems over the years, but there are some things I am more up to date with and these days I leverage artificial intelligence to accelerate delivery, remove barriers and fill gaps.
 
 ## Skills
 
 - *Software design methodologies =>* DDD, Event Storming, Evolutionary Architectures
 - *Software development approaches =>* AIAD (AI Assisted Development), ATDD (and BDD/TDD), Continuous Delivery
 - *Main programming language =>* TypeScript (or JavaScript directly)
-- *Main stack =>* plain Node.js (or Express or NestJS) for backend, plain HTML/CSS/JS (or React/Next.js or React Native) for frontend
+- *Main stack =>* Node.js (or Express or NestJS) for backend, HTML/CSS/JS (or React/Next.js or React Native) for frontend
 - *Main cloud provider =>* AWS (mostly around its serverless services)
 
 A team player and a clear, organized and thoughtful communicator.<br>
