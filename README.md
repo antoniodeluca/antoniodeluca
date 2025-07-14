@@ -11,7 +11,7 @@ After that, during 25+ years, I've worked in various contexts and roles contribu
 ## Skills
 
 - *Solution design methodologies =>* DDD, Event Storming, Evolutionary Architectures, RFC
-- *Solution development approaches =>* AIAD (AI Assisted Development), ATDD (and BDD/TDD), Continuous Delivery, Feature Flags
+- *Solution development approaches =>* AI Assisted Development, ATDD (and BDD/TDD), Continuous Delivery, Feature Flags
 - *Solution documentation approaches =>* BPMN, C4, ERD, UML
 - *Main programming language =>* TypeScript (or JavaScript directly)
 - *Main stack =>* Node.js (or Express or NestJS) for backend, HTML/CSS/JS (or React/Next.js or React Native) for frontend
