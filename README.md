@@ -11,7 +11,7 @@ After that, during 25+ years, I've worked in various contexts and roles contribu
 ## Skills
 
 - *Solution design methodologies =>* DDD, Event Storming, Evolutionary Architectures, RFC
-- *Solution development approaches =>* AI Assisted Development, ATDD (and BDD/TDD), Continuous Delivery, Feature Flags
+- *Solution development approaches =>* AIAD, ATDD (and BDD/TDD), Continuous Delivery, Feature Flags
 - *Solution documentation approaches =>* BPMN, C4, ERD, UML
 - *Main programming language =>* TypeScript (or JavaScript directly)
 - *Main stack =>* Node.js (or Express or NestJS) for backend, HTML/CSS/JS (or React/Next.js or React Native) for frontend
@@ -20,7 +20,7 @@ After that, during 25+ years, I've worked in various contexts and roles contribu
 A team player and a clear, organized and thoughtful communicator.<br>
 Business savvy and pragmatic.
 
-Worked with various DevOps tools, CI/CD systems, o11y solutions, database engines, runtime environments, coding assistants as well as with many libraries and other languages (like PHP, Python and others).<br> 
+Worked with various DevOps tools, CI/CD systems, o11y solutions, database engines, runtime environments, coding assistants as well as with many libraries and additional languages (like PHP, Python and others).<br> 
 Used to apply rapid prototyping, iterative refactoring, efficient modularization, design patterns, appropriate DSA, scalability rules, security practices and accessibility guidelines.
 
 <a href="https://github.com/antoniodeluca/antoniodeluca/blob/main/antonio-de-luca.pdf">Curriculum Vitae</a>
