@@ -6,14 +6,13 @@ Focused on event-driven/service-oriented architectures and serverless/IaC approa
 
 I've studied electronics, written my first code on a VIC 20 and, during 1999, after a lot of experimentation with neural networks, finally recognized software as my passion and understood that it would have been my future.
 
-After that, during 25+ years, I've worked in various contexts and roles contributing to the design and development of many systems as well as to the support and mentorship of many engineers through pair programming, individual contribution and more.
+After that, during 25+ years, I've worked in various contexts and roles contributing to the design and development of many systems as well as to the support and mentorship of many engineers through pair programming and individual contribution.
 
 ## Skills
 
 - *Solution design methodologies =>* DDD, Event Storming, Evolutionary Architectures, RFC
 - *Solution development approaches =>* AIAD (AI Assisted Development), ATDD (and BDD/TDD), Continuous Delivery, Feature Flags
 - *Solution documentation approaches =>* BPMN, C4, ERD, UML
-
 - *Main programming language =>* TypeScript (or JavaScript directly)
 - *Main stack =>* Node.js (or Express or NestJS) for backend, HTML/CSS/JS (or React/Next.js or React Native) for frontend
 - *Main cloud provider =>* AWS (mostly around its serverless services)
@@ -21,8 +20,8 @@ After that, during 25+ years, I've worked in various contexts and roles contribu
 A team player and a clear, organized and thoughtful communicator.<br>
 Business savvy and pragmatic.
 
-Worked with various DevOps tools, CI/CD systems, o11y solutions, database engines, runtime environments, coding assistants as well as with many libraries and other languages (like PHP, Python and others). 
-Used to apply rapid prototyping, iterative refactoring, design patterns, appropriate DSA, security practices and more.
+Worked with various DevOps tools, CI/CD systems, o11y solutions, database engines, runtime environments, coding assistants as well as with many libraries and other languages (like PHP, Python and others).<br> 
+Used to apply rapid prototyping, iterative refactoring, efficient modularization, design patterns, appropriate DSA, scalability rules, security practices and accessibility guidelines.
 
 <a href="https://github.com/antoniodeluca/antoniodeluca/blob/main/antonio-de-luca.pdf">Curriculum Vitae</a>
 
